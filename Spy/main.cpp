@@ -37,7 +37,7 @@ std::string random_location() {
 }
 
 void print_locations() {
-  std::ofstream fout("Локации.txt");
+  std::ofstream fout("Locations.txt");
   for(const auto& loc : locations) {
     fout << loc << '\n';
   }
