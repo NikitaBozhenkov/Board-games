@@ -1,3 +1,0 @@
-D:/Non-study/Coding Stuff/Board-games/Spy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-D:/Non-study/Coding Stuff/Board-games/Spy/cmake-build-debug/CMakeFiles/Spy.dir
-D:/Non-study/Coding Stuff/Board-games/Spy/cmake-build-debug/CMakeFiles/edit_cache.dir
